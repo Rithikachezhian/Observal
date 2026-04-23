@@ -3,7 +3,7 @@
   <source media="(prefers-color-scheme: light)" srcset="docs/logo-light.svg">
   <img alt="Observal" src="docs/logo-light.svg" width="320">
 </picture>
-
+ 
 ### Discover, share, and monitor AI coding agents with full observability built in.
 
 <p>
